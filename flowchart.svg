@@ -1,0 +1,573 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="733pt" height="1667pt" viewBox="0.00 0.00 732.76 1667.00">
+<g id="graph0" class="graph" transform="translate(-40.377160023498334,1543.9918634529163) scale(0.9295467771329357)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-1663 728.76,-1663 728.76,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterNFTLendingFacet">
+
+<path fill="#445773" stroke="#445773" d="M20,-587C20,-587 704.76,-587 704.76,-587 710.76,-587 716.76,-593 716.76,-599 716.76,-599 716.76,-1502 716.76,-1502 716.76,-1508 710.76,-1514 704.76,-1514 704.76,-1514 20,-1514 20,-1514 14,-1514 8,-1508 8,-1502 8,-1502 8,-599 8,-599 8,-593 14,-587 20,-587" style=""/>
+<text text-anchor="middle" x="362.38" y="-1497.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">NFTLendingFacet</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterLibDiamond">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M286.7,-394C286.7,-394 491.68,-394 491.68,-394 497.68,-394 503.68,-400 503.68,-406 503.68,-406 503.68,-567 503.68,-567 503.68,-573 497.68,-579 491.68,-579 491.68,-579 286.7,-579 286.7,-579 280.7,-579 274.7,-573 274.7,-567 274.7,-567 274.7,-406 274.7,-406 274.7,-400 280.7,-394 286.7,-394" style=""/>
+<text text-anchor="middle" x="389.19" y="-562.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">LibDiamond</text>
+</g>
+<g id="clust3" class="cluster" data-name="clusterIERC721">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M311.34,-147C311.34,-147 467.04,-147 467.04,-147 473.04,-147 479.04,-153 479.04,-159 479.04,-159 479.04,-374 479.04,-374 479.04,-380 473.04,-386 467.04,-386 467.04,-386 311.34,-386 311.34,-386 305.34,-386 299.34,-380 299.34,-374 299.34,-374 299.34,-159 299.34,-159 299.34,-153 305.34,-147 311.34,-147" style=""/>
+<text text-anchor="middle" x="389.19" y="-369.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IERC721</text>
+</g>
+<g id="clust4" class="cluster" data-name="clusterIERC20">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M331.74,-8C331.74,-8 446.64,-8 446.64,-8 452.64,-8 458.64,-14 458.64,-20 458.64,-20 458.64,-127 458.64,-127 458.64,-133 452.64,-139 446.64,-139 446.64,-139 331.74,-139 331.74,-139 325.74,-139 319.74,-133 319.74,-127 319.74,-127 319.74,-20 319.74,-20 319.74,-14 325.74,-8 331.74,-8" style=""/>
+<text text-anchor="middle" x="389.19" y="-122.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IERC20</text>
+</g>
+<g id="clust5" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="40.92,-1522 40.92,-1651 424.19,-1651 424.19,-1522 40.92,-1522" style=""/>
+<text text-anchor="middle" x="232.55" y="-1634.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- NFTLendingFacet.initializeLendingFacet -->
+<g id="node1" class="node" pointer-events="visible" data-name="NFTLendingFacet.initializeLendingFacet">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="113.92" cy="-829" rx="97.83" ry="18" style=""/>
+<text text-anchor="middle" x="113.92" y="-824.8" font-family="Times,serif" font-size="14.00" style="">initializeLendingFacet</text>
+</g>
+<!-- LibDiamond.diamondStorage -->
+<g id="node28" class="node" pointer-events="visible" data-name="LibDiamond.diamondStorage">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-474" rx="74.16" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-469.8" font-family="Times,serif" font-size="14.00" style="">diamondStorage</text>
+</g>
+<!-- NFTLendingFacet.initializeLendingFacet&#45;&gt;LibDiamond.diamondStorage -->
+<g id="edge1" class="edge" data-name="NFTLendingFacet.initializeLendingFacet-&gt;LibDiamond.diamondStorage">
+
+<path fill="none" stroke="white" stroke-width="2" d="M192.08,-817.09C199.55,-813.29 206.37,-808.36 211.83,-802 299.56,-699.74 156,-599.59 247.83,-501 261.84,-485.96 281.47,-477.83 301.62,-473.71" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="301.91,-477.21 311.21,-472.12 300.77,-470.3 301.91,-477.21" style=""/>
+</g>
+<!-- NFTLendingFacet.createLoan -->
+<g id="node2" class="node" pointer-events="visible" data-name="NFTLendingFacet.createLoan">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="113.92" cy="-1099" rx="53.84" ry="18" style=""/>
+<text text-anchor="middle" x="113.92" y="-1094.8" font-family="Times,serif" font-size="14.00" style="">createLoan</text>
+</g>
+<!-- NFTLendingFacet.InvalidDuration -->
+<g id="node12" class="node" pointer-events="visible" data-name="NFTLendingFacet.InvalidDuration">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-1355" rx="72.94" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-1350.8" font-family="Times,serif" font-size="14.00" style="">InvalidDuration</text>
+</g>
+<!-- NFTLendingFacet.createLoan&#45;&gt;NFTLendingFacet.InvalidDuration -->
+<g id="edge3" class="edge" data-name="NFTLendingFacet.createLoan-&gt;NFTLendingFacet.InvalidDuration">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M120.06,-1118.09C133.14,-1162.74 172.12,-1274.24 247.83,-1328 263.85,-1339.37 283.38,-1346.29 302.72,-1350.43" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="301.92,-1353.84 312.39,-1352.21 303.19,-1346.96 301.92,-1353.84" style=""/>
+</g>
+<!-- NFTLendingFacet.InvalidAmount -->
+<g id="node13" class="node" pointer-events="visible" data-name="NFTLendingFacet.InvalidAmount">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-1409" rx="70.09" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-1404.8" font-family="Times,serif" font-size="14.00" style="">InvalidAmount</text>
+</g>
+<!-- NFTLendingFacet.createLoan&#45;&gt;NFTLendingFacet.InvalidAmount -->
+<g id="edge4" class="edge" data-name="NFTLendingFacet.createLoan-&gt;NFTLendingFacet.InvalidAmount">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M117.85,-1118.18C126.82,-1169.88 158.91,-1312.86 247.83,-1382 264.22,-1394.74 284.88,-1402.04 305.27,-1406.09" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="304.47,-1409.5 314.91,-1407.71 305.63,-1402.6 304.47,-1409.5" style=""/>
+</g>
+<!-- NFTLendingFacet.InvalidRate -->
+<g id="node14" class="node" pointer-events="visible" data-name="NFTLendingFacet.InvalidRate">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-1463" rx="56.17" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-1458.8" font-family="Times,serif" font-size="14.00" style="">InvalidRate</text>
+</g>
+<!-- NFTLendingFacet.createLoan&#45;&gt;NFTLendingFacet.InvalidRate -->
+<g id="edge5" class="edge" data-name="NFTLendingFacet.createLoan-&gt;NFTLendingFacet.InvalidRate">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M116.29,-1118.31C121.52,-1176.45 145.46,-1351.06 247.83,-1436 267.59,-1452.39 294.31,-1459.95 319.12,-1463.13" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="318.57,-1466.59 328.87,-1464.11 319.28,-1459.62 318.57,-1466.59" style=""/>
+</g>
+<!-- NFTLendingFacet.IERC721 -->
+<g id="node15" class="node" pointer-events="visible" data-name="NFTLendingFacet.IERC721">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-849" rx="47.54" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-844.8" font-family="Times,serif" font-size="14.00" style="">IERC721</text>
+</g>
+<!-- NFTLendingFacet.createLoan&#45;&gt;NFTLendingFacet.IERC721 -->
+<g id="edge6" class="edge" data-name="NFTLendingFacet.createLoan-&gt;NFTLendingFacet.IERC721">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M167.77,-1094.91C183.91,-1091.13 200.4,-1084.26 211.83,-1072 266.28,-1013.6 194.9,-955.78 247.83,-896 268.22,-872.98 300.22,-861.21 328.52,-855.2" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="329.04,-858.66 338.23,-853.39 327.75,-851.78 329.04,-858.66" style=""/>
+</g>
+<!-- NFTLendingFacet.NotNFTOwner -->
+<g id="node16" class="node" pointer-events="visible" data-name="NFTLendingFacet.NotNFTOwner">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-1247" rx="70.09" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-1242.8" font-family="Times,serif" font-size="14.00" style="">NotNFTOwner</text>
+</g>
+<!-- NFTLendingFacet.createLoan&#45;&gt;NFTLendingFacet.NotNFTOwner -->
+<g id="edge8" class="edge" data-name="NFTLendingFacet.createLoan-&gt;NFTLendingFacet.NotNFTOwner">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M129.45,-1117.56C151.8,-1144.69 197.33,-1194.71 247.83,-1220 266.39,-1229.29 287.8,-1235.4 308.23,-1239.4" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="307.34,-1242.8 317.8,-1241.1 308.57,-1235.91 307.34,-1242.8" style=""/>
+</g>
+<!-- NFTLendingFacet.NFTNotApproved -->
+<g id="node17" class="node" pointer-events="visible" data-name="NFTLendingFacet.NFTNotApproved">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-1301" rx="82.27" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-1296.8" font-family="Times,serif" font-size="14.00" style="">NFTNotApproved</text>
+</g>
+<!-- NFTLendingFacet.createLoan&#45;&gt;NFTLendingFacet.NFTNotApproved -->
+<g id="edge11" class="edge" data-name="NFTLendingFacet.createLoan-&gt;NFTLendingFacet.NFTNotApproved">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M123.46,-1117.95C141.04,-1154.59 184.95,-1234.96 247.83,-1274 262.34,-1283.01 279.18,-1289.12 296.06,-1293.25" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="294.86,-1296.57 305.37,-1295.27 296.34,-1289.73 294.86,-1296.57" style=""/>
+</g>
+<!-- NFTLendingFacet.createLoan&#45;&gt;LibDiamond.diamondStorage -->
+<g id="edge2" class="edge" data-name="NFTLendingFacet.createLoan-&gt;LibDiamond.diamondStorage">
+
+<path fill="none" stroke="white" stroke-width="2" d="M168.29,-1095.92C184.67,-1092.23 201.17,-1085.16 211.83,-1072 291.88,-973.22 163.82,-596.43 247.83,-501 261.61,-485.34 281.48,-477.06 301.94,-472.99" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="302.39,-476.46 311.72,-471.45 301.3,-469.55 302.39,-476.46" style=""/>
+</g>
+<!-- LibDiamond.Loan -->
+<g id="node29" class="node" pointer-events="visible" data-name="LibDiamond.Loan">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-528" rx="30.76" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-523.8" font-family="Times,serif" font-size="14.00" style="">Loan</text>
+</g>
+<!-- NFTLendingFacet.createLoan&#45;&gt;LibDiamond.Loan -->
+<g id="edge12" class="edge" data-name="NFTLendingFacet.createLoan-&gt;LibDiamond.Loan">
+
+<path fill="none" stroke="white" stroke-width="2" d="M168.46,-1095.8C184.75,-1092.08 201.15,-1085.04 211.83,-1072 280.88,-987.71 183.16,-670.69 247.83,-583 270.36,-552.45 312.4,-538.87 344.63,-532.82" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="345.02,-536.31 354.32,-531.23 343.89,-529.4 345.02,-536.31" style=""/>
+</g>
+<!-- IERC721.ownerOf -->
+<g id="node31" class="node" pointer-events="visible" data-name="IERC721.ownerOf">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-335" rx="45.22" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-330.8" font-family="Times,serif" font-size="14.00" style="">ownerOf</text>
+</g>
+<!-- NFTLendingFacet.createLoan&#45;&gt;IERC721.ownerOf -->
+<g id="edge7" class="edge" data-name="NFTLendingFacet.createLoan-&gt;IERC721.ownerOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M168.37,-1095.99C184.75,-1092.29 201.23,-1085.22 211.83,-1072 306.78,-953.6 159.03,-513.07 247.83,-390 267.19,-363.17 301.67,-349.42 331.6,-342.38" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="332.07,-345.86 341.14,-340.38 330.63,-339.01 332.07,-345.86" style=""/>
+</g>
+<!-- IERC721.isApprovedForAll -->
+<g id="node32" class="node" pointer-events="visible" data-name="IERC721.isApprovedForAll">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-281" rx="81.7" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-276.8" font-family="Times,serif" font-size="14.00" style="">isApprovedForAll</text>
+</g>
+<!-- NFTLendingFacet.createLoan&#45;&gt;IERC721.isApprovedForAll -->
+<g id="edge9" class="edge" data-name="NFTLendingFacet.createLoan-&gt;IERC721.isApprovedForAll">
+
+<path fill="none" stroke="white" stroke-width="2" d="M168.41,-1096.02C184.8,-1092.33 201.27,-1085.25 211.83,-1072 264.81,-1005.55 192.19,-372.23 247.83,-308 259.72,-294.28 276.28,-286.19 293.87,-281.64" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="294.47,-285.1 303.53,-279.61 293.02,-278.25 294.47,-285.1" style=""/>
+</g>
+<!-- IERC721.getApproved -->
+<g id="node33" class="node" pointer-events="visible" data-name="IERC721.getApproved">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-227" rx="61.41" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-222.8" font-family="Times,serif" font-size="14.00" style="">getApproved</text>
+</g>
+<!-- NFTLendingFacet.createLoan&#45;&gt;IERC721.getApproved -->
+<g id="edge10" class="edge" data-name="NFTLendingFacet.createLoan-&gt;IERC721.getApproved">
+
+<path fill="none" stroke="white" stroke-width="2" d="M168.43,-1096.04C184.82,-1092.35 201.29,-1085.26 211.83,-1072 268.44,-1000.78 188.37,-322.85 247.83,-254 264.41,-234.81 290.11,-226.64 315.02,-223.74" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="315.22,-227.24 324.9,-222.93 314.65,-220.26 315.22,-227.24" style=""/>
+</g>
+<!-- IERC721.transferFrom -->
+<g id="node34" class="node" pointer-events="visible" data-name="IERC721.transferFrom">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-173" rx="61.41" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-168.8" font-family="Times,serif" font-size="14.00" style="">transferFrom</text>
+</g>
+<!-- NFTLendingFacet.createLoan&#45;&gt;IERC721.transferFrom -->
+<g id="edge13" class="edge" data-name="NFTLendingFacet.createLoan-&gt;IERC721.transferFrom">
+
+<path fill="none" stroke="white" stroke-width="2" d="M168.46,-1096.06C184.85,-1092.37 201.31,-1085.28 211.83,-1072 272.06,-996 184.55,-273.48 247.83,-200 264.38,-180.79 290.08,-172.61 314.99,-169.72" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="315.2,-173.22 324.88,-168.91 314.62,-166.24 315.2,-173.22" style=""/>
+</g>
+<!-- NFTLendingFacet.fundLoan -->
+<g id="node3" class="node" pointer-events="visible" data-name="NFTLendingFacet.fundLoan">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="113.92" cy="-1045" rx="48.66" ry="18" style=""/>
+<text text-anchor="middle" x="113.92" y="-1040.8" font-family="Times,serif" font-size="14.00" style="">fundLoan</text>
+</g>
+<!-- NFTLendingFacet.LoanAlreadyFunded -->
+<g id="node18" class="node" pointer-events="visible" data-name="NFTLendingFacet.LoanAlreadyFunded">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-1139" rx="90.9" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-1134.8" font-family="Times,serif" font-size="14.00" style="">LoanAlreadyFunded</text>
+</g>
+<!-- NFTLendingFacet.fundLoan&#45;&gt;NFTLendingFacet.LoanAlreadyFunded -->
+<g id="edge15" class="edge" data-name="NFTLendingFacet.fundLoan-&gt;NFTLendingFacet.LoanAlreadyFunded">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M160.51,-1052.13C177.5,-1056.18 196.39,-1062.43 211.83,-1072 232.16,-1084.6 227.01,-1100.24 247.83,-1112 261,-1119.43 275.85,-1124.86 290.84,-1128.81" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="289.94,-1132.2 300.48,-1131.1 291.56,-1125.38 289.94,-1132.2" style=""/>
+</g>
+<!-- NFTLendingFacet.LoanAlreadyLiquidatedOrRepaid -->
+<g id="node19" class="node" pointer-events="visible" data-name="NFTLendingFacet.LoanAlreadyLiquidatedOrRepaid">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-795" rx="141.22" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-790.8" font-family="Times,serif" font-size="14.00" style="">LoanAlreadyLiquidatedOrRepaid</text>
+</g>
+<!-- NFTLendingFacet.fundLoan&#45;&gt;NFTLendingFacet.LoanAlreadyLiquidatedOrRepaid -->
+<g id="edge16" class="edge" data-name="NFTLendingFacet.fundLoan-&gt;NFTLendingFacet.LoanAlreadyLiquidatedOrRepaid">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M163.38,-1042.03C180.93,-1038.51 199.46,-1031.54 211.83,-1018 271.58,-952.62 185.47,-884.89 247.83,-822 251.46,-818.34 255.43,-815.09 259.65,-812.22" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="261.14,-815.41 268.02,-807.35 257.62,-809.36 261.14,-815.41" style=""/>
+</g>
+<!-- NFTLendingFacet.InvalidLoan -->
+<g id="node20" class="node" pointer-events="visible" data-name="NFTLendingFacet.InvalidLoan">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-1193" rx="58.46" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-1188.8" font-family="Times,serif" font-size="14.00" style="">InvalidLoan</text>
+</g>
+<!-- NFTLendingFacet.fundLoan&#45;&gt;NFTLendingFacet.InvalidLoan -->
+<g id="edge17" class="edge" data-name="NFTLendingFacet.fundLoan-&gt;NFTLendingFacet.InvalidLoan">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M162.63,-1049.32C179.88,-1053.02 198.4,-1059.77 211.83,-1072 244.92,-1102.11 213.54,-1137.26 247.83,-1166 266.85,-1181.94 292.44,-1189.55 316.55,-1192.9" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="316.03,-1196.36 326.36,-1193.98 316.8,-1189.41 316.03,-1196.36" style=""/>
+</g>
+<!-- NFTLendingFacet.IERC20 -->
+<g id="node21" class="node" pointer-events="visible" data-name="NFTLendingFacet.IERC20">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-1031" rx="42.88" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-1026.8" font-family="Times,serif" font-size="14.00" style="">IERC20</text>
+</g>
+<!-- NFTLendingFacet.fundLoan&#45;&gt;NFTLendingFacet.IERC20 -->
+<g id="edge18" class="edge" data-name="NFTLendingFacet.fundLoan-&gt;NFTLendingFacet.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M163.46,-1042.51C210.9,-1040.08 283.06,-1036.39 332.74,-1033.84" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="332.66,-1037.35 342.47,-1033.34 332.3,-1030.36 332.66,-1037.35" style=""/>
+</g>
+<!-- NFTLendingFacet.TransferFailed -->
+<g id="node22" class="node" pointer-events="visible" data-name="NFTLendingFacet.TransferFailed">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-1085" rx="67.76" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-1080.8" font-family="Times,serif" font-size="14.00" style="">TransferFailed</text>
+</g>
+<!-- NFTLendingFacet.fundLoan&#45;&gt;NFTLendingFacet.TransferFailed -->
+<g id="edge20" class="edge" data-name="NFTLendingFacet.fundLoan-&gt;NFTLendingFacet.TransferFailed">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M163.14,-1041.48C211.63,-1044.79 286.15,-1055.59 336,-1066.48" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="334.95,-1069.83 345.48,-1068.65 336.51,-1063.01 334.95,-1069.83" style=""/>
+</g>
+<!-- NFTLendingFacet.fundLoan&#45;&gt;NFTLendingFacet.TransferFailed -->
+<g id="edge22" class="edge" data-name="NFTLendingFacet.fundLoan-&gt;NFTLendingFacet.TransferFailed">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M160.96,-1051.74C202.99,-1057.89 265.84,-1067.09 314.79,-1074.26" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="314.16,-1077.7 324.56,-1075.69 315.17,-1070.77 314.16,-1077.7" style=""/>
+</g>
+<!-- NFTLendingFacet.fundLoan&#45;&gt;NFTLendingFacet.TransferFailed -->
+<g id="edge24" class="edge" data-name="NFTLendingFacet.fundLoan-&gt;NFTLendingFacet.TransferFailed">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M148.42,-1059.13C187.79,-1069.16 254.47,-1079.99 307.53,-1085.63" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="307.04,-1089.1 317.34,-1086.62 307.74,-1082.14 307.04,-1089.1" style=""/>
+</g>
+<!-- NFTLendingFacet.fundLoan&#45;&gt;LibDiamond.diamondStorage -->
+<g id="edge14" class="edge" data-name="NFTLendingFacet.fundLoan-&gt;LibDiamond.diamondStorage">
+
+<path fill="none" stroke="white" stroke-width="2" d="M163.69,-1042.83C181.5,-1039.44 200.13,-1032.35 211.83,-1018 284.63,-928.76 171.45,-587.19 247.83,-501 261.6,-485.47 281.35,-477.2 301.71,-473.11" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="302.11,-476.59 311.43,-471.56 301,-469.68 302.11,-476.59" style=""/>
+</g>
+<!-- IERC20.transferFrom -->
+<g id="node35" class="node" pointer-events="visible" data-name="IERC20.transferFrom">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-34" rx="61.41" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-29.8" font-family="Times,serif" font-size="14.00" style="">transferFrom</text>
+</g>
+<!-- NFTLendingFacet.fundLoan&#45;&gt;IERC20.transferFrom -->
+<g id="edge19" class="edge" data-name="NFTLendingFacet.fundLoan-&gt;IERC20.transferFrom">
+
+<path fill="none" stroke="white" stroke-width="2" d="M163.67,-1043.07C181.6,-1039.72 200.3,-1032.6 211.83,-1018 277.77,-934.49 178.54,-141.75 247.83,-61 264.41,-41.68 290.25,-33.51 315.27,-30.65" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="315.51,-34.14 325.2,-29.86 314.95,-27.17 315.51,-34.14" style=""/>
+</g>
+<!-- IERC20.transfer -->
+<g id="node36" class="node" pointer-events="visible" data-name="IERC20.transfer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-88" rx="40.55" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-83.8" font-family="Times,serif" font-size="14.00" style="">transfer</text>
+</g>
+<!-- NFTLendingFacet.fundLoan&#45;&gt;IERC20.transfer -->
+<g id="edge21" class="edge" data-name="NFTLendingFacet.fundLoan-&gt;IERC20.transfer">
+
+<path fill="none" stroke="white" stroke-width="2" d="M157.88,-1035.88C177.44,-1032.15 199.03,-1025.15 211.83,-1009 272.26,-932.74 191.36,-213.24 247.83,-134 267.84,-105.93 304.4,-92.19 335.19,-86.68" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="335.59,-90.16 344.98,-85.25 334.58,-83.24 335.59,-90.16" style=""/>
+</g>
+<!-- NFTLendingFacet.fundLoan&#45;&gt;IERC20.transfer -->
+<g id="edge23" class="edge" data-name="NFTLendingFacet.fundLoan-&gt;IERC20.transfer">
+
+<path fill="none" stroke="white" stroke-width="2" d="M160.88,-1051.78C179.61,-1049.42 199.68,-1042.33 211.83,-1027 272.26,-950.74 191.36,-231.24 247.83,-152 269.06,-122.22 308.94,-108.56 340.78,-100.84" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="341.49,-104.26 350.46,-98.63 339.93,-97.44 341.49,-104.26" style=""/>
+</g>
+<!-- NFTLendingFacet.calculateRepaymentAmount -->
+<g id="node4" class="node" pointer-events="visible" data-name="NFTLendingFacet.calculateRepaymentAmount">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="389.19" cy="-977" rx="120.96" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-972.8" font-family="Times,serif" font-size="14.00" style="">calculateRepaymentAmount</text>
+</g>
+<!-- NFTLendingFacet.LoanNotActive -->
+<g id="node23" class="node" pointer-events="visible" data-name="NFTLendingFacet.LoanNotActive">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="637.65" cy="-886" rx="71.21" ry="18" style=""/>
+<text text-anchor="middle" x="637.65" y="-881.8" font-family="Times,serif" font-size="14.00" style="">LoanNotActive</text>
+</g>
+<!-- NFTLendingFacet.calculateRepaymentAmount&#45;&gt;NFTLendingFacet.LoanNotActive -->
+<g id="edge26" class="edge" data-name="NFTLendingFacet.calculateRepaymentAmount-&gt;NFTLendingFacet.LoanNotActive">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M481.73,-964.24C498.27,-960.57 515.14,-955.91 530.55,-950 555.68,-940.36 581.6,-924.85 601.52,-911.51" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="603.46,-914.43 609.73,-905.89 599.5,-908.66 603.46,-914.43" style=""/>
+</g>
+<!-- NFTLendingFacet.calculateRepaymentAmount&#45;&gt;LibDiamond.diamondStorage -->
+<g id="edge25" class="edge" data-name="NFTLendingFacet.calculateRepaymentAmount-&gt;LibDiamond.diamondStorage">
+
+<path fill="none" stroke="white" stroke-width="2" d="M270.44,-972.54C253.88,-966.26 239.3,-956.32 229.83,-941 217.24,-920.63 217.24,-530.37 229.83,-510 245.22,-485.09 274.11,-474.42 303.11,-470.55" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="303.34,-474.05 312.94,-469.56 302.64,-467.08 303.34,-474.05" style=""/>
+</g>
+<!-- NFTLendingFacet.repayLoan -->
+<g id="node5" class="node" pointer-events="visible" data-name="NFTLendingFacet.repayLoan">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="113.92" cy="-991" rx="52.15" ry="18" style=""/>
+<text text-anchor="middle" x="113.92" y="-986.8" font-family="Times,serif" font-size="14.00" style="">repayLoan</text>
+</g>
+<!-- NFTLendingFacet.repayLoan&#45;&gt;NFTLendingFacet.calculateRepaymentAmount -->
+<g id="edge31" class="edge" data-name="NFTLendingFacet.repayLoan-&gt;NFTLendingFacet.calculateRepaymentAmount">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M166.96,-988.33C193.53,-986.97 227.14,-985.25 260.08,-983.56" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="259.83,-987.08 269.64,-983.07 259.47,-980.09 259.83,-987.08" style=""/>
+</g>
+<!-- NFTLendingFacet.repayLoan&#45;&gt;NFTLendingFacet.IERC721 -->
+<g id="edge35" class="edge" data-name="NFTLendingFacet.repayLoan-&gt;NFTLendingFacet.IERC721">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M165.35,-985.69C181.7,-981.84 198.93,-975.24 211.83,-964 242.15,-937.59 216.89,-906.68 247.83,-881 269.89,-862.69 300.37,-854.36 327.29,-850.75" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="327.6,-854.23 337.16,-849.66 326.83,-847.28 327.6,-854.23" style=""/>
+</g>
+<!-- NFTLendingFacet.repayLoan&#45;&gt;NFTLendingFacet.LoanAlreadyLiquidatedOrRepaid -->
+<g id="edge29" class="edge" data-name="NFTLendingFacet.repayLoan-&gt;NFTLendingFacet.LoanAlreadyLiquidatedOrRepaid">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M166.18,-986.89C182.69,-983.14 199.81,-976.31 211.83,-964 257.33,-917.43 200.47,-866.68 247.83,-822 251.79,-818.26 256.1,-814.97 260.68,-812.07" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="262.04,-815.32 269.13,-807.45 258.68,-809.18 262.04,-815.32" style=""/>
+</g>
+<!-- NFTLendingFacet.repayLoan&#45;&gt;NFTLendingFacet.IERC20 -->
+<g id="edge32" class="edge" data-name="NFTLendingFacet.repayLoan-&gt;NFTLendingFacet.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M163.77,-998.15C211.83,-1005.19 285.01,-1015.9 334.63,-1023.16" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="333.93,-1026.6 344.34,-1024.58 334.95,-1019.67 333.93,-1026.6" style=""/>
+</g>
+<!-- NFTLendingFacet.repayLoan&#45;&gt;NFTLendingFacet.TransferFailed -->
+<g id="edge34" class="edge" data-name="NFTLendingFacet.repayLoan-&gt;NFTLendingFacet.TransferFailed">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M162.98,-998.73C179.31,-1002.79 197.13,-1008.89 211.83,-1018 232.16,-1030.6 227.01,-1046.24 247.83,-1058 266.26,-1068.41 287.99,-1074.88 308.78,-1078.88" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="308.13,-1082.32 318.58,-1080.55 309.31,-1075.42 308.13,-1082.32" style=""/>
+</g>
+<!-- NFTLendingFacet.repayLoan&#45;&gt;NFTLendingFacet.LoanNotActive -->
+<g id="edge28" class="edge" data-name="NFTLendingFacet.repayLoan-&gt;NFTLendingFacet.LoanNotActive">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M164.86,-985.11C181.17,-981.21 198.5,-974.73 211.83,-964 238.47,-942.56 218.77,-914.01 247.83,-896 272.97,-880.42 445.8,-881.48 552.4,-883.7" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="552.28,-887.2 562.35,-883.92 552.43,-880.2 552.28,-887.2" style=""/>
+</g>
+<!-- NFTLendingFacet.NotBorrower -->
+<g id="node24" class="node" pointer-events="visible" data-name="NFTLendingFacet.NotBorrower">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-923" rx="62.56" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-918.8" font-family="Times,serif" font-size="14.00" style="">NotBorrower</text>
+</g>
+<!-- NFTLendingFacet.repayLoan&#45;&gt;NFTLendingFacet.NotBorrower -->
+<g id="edge30" class="edge" data-name="NFTLendingFacet.repayLoan-&gt;NFTLendingFacet.NotBorrower">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M157.65,-980.08C174.63,-975.48 194.27,-969.85 211.83,-964 228.12,-958.58 231.34,-954.75 247.83,-950 270.66,-943.42 296.05,-937.99 318.88,-933.76" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="319.43,-937.22 328.65,-932.01 318.19,-930.33 319.43,-937.22" style=""/>
+</g>
+<!-- NFTLendingFacet.repayLoan&#45;&gt;LibDiamond.diamondStorage -->
+<g id="edge27" class="edge" data-name="NFTLendingFacet.repayLoan-&gt;LibDiamond.diamondStorage">
+
+<path fill="none" stroke="white" stroke-width="2" d="M166.91,-988.11C183.69,-984.49 200.79,-977.42 211.83,-964 277.39,-884.3 179.07,-577.96 247.83,-501 261.66,-485.52 281.44,-477.28 301.79,-473.19" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="302.19,-476.67 311.51,-471.63 301.08,-469.76 302.19,-476.67" style=""/>
+</g>
+<!-- NFTLendingFacet.repayLoan&#45;&gt;IERC20.transferFrom -->
+<g id="edge33" class="edge" data-name="NFTLendingFacet.repayLoan-&gt;IERC20.transferFrom">
+
+<path fill="none" stroke="white" stroke-width="2" d="M166.95,-988.4C183.83,-984.81 200.99,-977.7 211.83,-964 274.15,-885.26 182.36,-137.13 247.83,-61 264.37,-41.77 290.07,-33.6 314.98,-30.71" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="315.18,-34.2 324.86,-29.9 314.61,-27.23 315.18,-34.2" style=""/>
+</g>
+<!-- NFTLendingFacet.liquidateLoan -->
+<g id="node6" class="node" pointer-events="visible" data-name="NFTLendingFacet.liquidateLoan">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="113.92" cy="-937" rx="64.84" ry="18" style=""/>
+<text text-anchor="middle" x="113.92" y="-932.8" font-family="Times,serif" font-size="14.00" style="">liquidateLoan</text>
+</g>
+<!-- NFTLendingFacet.liquidateLoan&#45;&gt;NFTLendingFacet.IERC721 -->
+<g id="edge41" class="edge" data-name="NFTLendingFacet.liquidateLoan-&gt;NFTLendingFacet.IERC721">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M168.95,-926.11C183.33,-922.11 198.55,-916.83 211.83,-910 230.1,-900.61 229.34,-889.96 247.83,-881 273.23,-868.7 303.53,-861.02 329.47,-856.28" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="329.94,-859.75 339.21,-854.63 328.77,-852.85 329.94,-859.75" style=""/>
+</g>
+<!-- NFTLendingFacet.liquidateLoan&#45;&gt;NFTLendingFacet.LoanAlreadyLiquidatedOrRepaid -->
+<g id="edge38" class="edge" data-name="NFTLendingFacet.liquidateLoan-&gt;NFTLendingFacet.LoanAlreadyLiquidatedOrRepaid">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M174.8,-929.36C188.18,-925.33 201.46,-919.23 211.83,-910 243.4,-881.91 215.14,-848.78 247.83,-822 252.38,-818.27 257.29,-815 262.46,-812.14" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="263.93,-815.32 271.41,-807.82 260.88,-809.02 263.93,-815.32" style=""/>
+</g>
+<!-- NFTLendingFacet.liquidateLoan&#45;&gt;NFTLendingFacet.LoanNotActive -->
+<g id="edge37" class="edge" data-name="NFTLendingFacet.liquidateLoan-&gt;NFTLendingFacet.LoanNotActive">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M176.01,-930.28C189.27,-926.22 202.19,-919.87 211.83,-910 257.33,-863.43 196.45,-807.98 247.83,-768 272.62,-748.71 501.86,-755.21 530.55,-768 570.58,-785.84 601.83,-827.07 619.76,-855.74" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="616.68,-857.42 624.84,-864.18 622.68,-853.81 616.68,-857.42" style=""/>
+</g>
+<!-- NFTLendingFacet.NotLender -->
+<g id="node25" class="node" pointer-events="visible" data-name="NFTLendingFacet.NotLender">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-667" rx="52.73" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-662.8" font-family="Times,serif" font-size="14.00" style="">NotLender</text>
+</g>
+<!-- NFTLendingFacet.liquidateLoan&#45;&gt;NFTLendingFacet.NotLender -->
+<g id="edge39" class="edge" data-name="NFTLendingFacet.liquidateLoan-&gt;NFTLendingFacet.NotLender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M176.61,-930.84C189.85,-926.76 202.61,-920.26 211.83,-910 276.89,-837.61 179.88,-763.67 247.83,-694 267.19,-674.15 296.38,-666.49 323.14,-664.15" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="323.22,-667.65 333,-663.58 322.82,-660.66 323.22,-667.65" style=""/>
+</g>
+<!-- NFTLendingFacet.LoanNotExpired -->
+<g id="node26" class="node" pointer-events="visible" data-name="NFTLendingFacet.LoanNotExpired">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-721" rx="75.87" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-716.8" font-family="Times,serif" font-size="14.00" style="">LoanNotExpired</text>
+</g>
+<!-- NFTLendingFacet.liquidateLoan&#45;&gt;NFTLendingFacet.LoanNotExpired -->
+<g id="edge40" class="edge" data-name="NFTLendingFacet.liquidateLoan-&gt;NFTLendingFacet.LoanNotExpired">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M176.18,-930.44C189.43,-926.37 202.3,-919.98 211.83,-910 261.27,-858.22 197.18,-803.59 247.83,-753 261.83,-739.02 280.59,-730.62 299.83,-725.7" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="300.52,-729.13 309.54,-723.58 299.03,-722.29 300.52,-729.13" style=""/>
+</g>
+<!-- NFTLendingFacet.liquidateLoan&#45;&gt;LibDiamond.diamondStorage -->
+<g id="edge36" class="edge" data-name="NFTLendingFacet.liquidateLoan-&gt;LibDiamond.diamondStorage">
+
+<path fill="none" stroke="white" stroke-width="2" d="M177.19,-931.35C190.41,-927.25 203.01,-920.61 211.83,-910 270.15,-839.83 186.7,-568.73 247.83,-501 261.74,-485.59 281.54,-477.37 301.9,-473.28" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="302.3,-476.77 311.62,-471.73 301.19,-469.85 302.3,-476.77" style=""/>
+</g>
+<!-- NFTLendingFacet.setPlatformFee -->
+<g id="node7" class="node" pointer-events="visible" data-name="NFTLendingFacet.setPlatformFee">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="113.92" cy="-721" rx="69.5" ry="18" style=""/>
+<text text-anchor="middle" x="113.92" y="-716.8" font-family="Times,serif" font-size="14.00" style="">setPlatformFee</text>
+</g>
+<!-- NFTLendingFacet.FeeTooHigh -->
+<g id="node27" class="node" pointer-events="visible" data-name="NFTLendingFacet.FeeTooHigh">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-613" rx="59.7" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-608.8" font-family="Times,serif" font-size="14.00" style="">FeeTooHigh</text>
+</g>
+<!-- NFTLendingFacet.setPlatformFee&#45;&gt;NFTLendingFacet.FeeTooHigh -->
+<g id="edge43" class="edge" data-name="NFTLendingFacet.setPlatformFee-&gt;NFTLendingFacet.FeeTooHigh">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M175.34,-711.28C188.18,-707.34 201.08,-701.79 211.83,-694 235.19,-677.07 223.81,-655.96 247.83,-640 267.71,-626.79 292.47,-619.7 315.63,-615.99" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="315.86,-619.49 325.29,-614.67 314.91,-612.55 315.86,-619.49" style=""/>
+</g>
+<!-- NFTLendingFacet.setPlatformFee&#45;&gt;LibDiamond.diamondStorage -->
+<g id="edge44" class="edge" data-name="NFTLendingFacet.setPlatformFee-&gt;LibDiamond.diamondStorage">
+
+<path fill="none" stroke="white" stroke-width="2" d="M179.48,-713.75C191.64,-709.64 203.22,-703.4 211.83,-694 270.78,-629.67 186.31,-562.87 247.83,-501 262.11,-486.64 281.54,-478.69 301.4,-474.53" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="301.86,-478 311.13,-472.86 300.68,-471.1 301.86,-478" style=""/>
+</g>
+<!-- LibDiamond.enforceIsContractOwner -->
+<g id="node30" class="node" pointer-events="visible" data-name="LibDiamond.enforceIsContractOwner">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="389.19" cy="-420" rx="106.48" ry="18" style=""/>
+<text text-anchor="middle" x="389.19" y="-415.8" font-family="Times,serif" font-size="14.00" style="">enforceIsContractOwner</text>
+</g>
+<!-- NFTLendingFacet.setPlatformFee&#45;&gt;LibDiamond.enforceIsContractOwner -->
+<g id="edge42" class="edge" data-name="NFTLendingFacet.setPlatformFee-&gt;LibDiamond.enforceIsContractOwner">
+
+<path fill="none" stroke="white" stroke-width="2" d="M179.77,-714C191.91,-709.88 203.41,-703.57 211.83,-694 285.14,-610.74 171.18,-527.2 247.83,-447 254.88,-439.62 263.29,-433.92 272.44,-429.54" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="273.63,-432.83 281.58,-425.82 270.99,-426.35 273.63,-432.83" style=""/>
+</g>
+<!-- NFTLendingFacet.setDurationLimits -->
+<g id="node8" class="node" pointer-events="visible" data-name="NFTLendingFacet.setDurationLimits">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="113.92" cy="-613" rx="81.12" ry="18" style=""/>
+<text text-anchor="middle" x="113.92" y="-608.8" font-family="Times,serif" font-size="14.00" style="">setDurationLimits</text>
+</g>
+<!-- NFTLendingFacet.setDurationLimits&#45;&gt;LibDiamond.diamondStorage -->
+<g id="edge46" class="edge" data-name="NFTLendingFacet.setDurationLimits-&gt;LibDiamond.diamondStorage">
+
+<path fill="none" stroke="white" stroke-width="2" d="M131.3,-594.16C154.54,-568.73 199.63,-524 247.83,-501 265.56,-492.54 285.75,-486.73 305.17,-482.74" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="305.64,-486.22 314.82,-480.93 304.35,-479.34 305.64,-486.22" style=""/>
+</g>
+<!-- NFTLendingFacet.setDurationLimits&#45;&gt;LibDiamond.enforceIsContractOwner -->
+<g id="edge45" class="edge" data-name="NFTLendingFacet.setDurationLimits-&gt;LibDiamond.enforceIsContractOwner">
+
+<path fill="none" stroke="white" stroke-width="2" d="M124.3,-593.93C142.72,-558.68 187.14,-483.62 247.83,-447 258,-440.86 269.28,-436.08 280.89,-432.35" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="281.53,-435.81 290.17,-429.68 279.59,-429.08 281.53,-435.81" style=""/>
+</g>
+<!-- NFTLendingFacet.getLoan -->
+<g id="node9" class="node" pointer-events="visible" data-name="NFTLendingFacet.getLoan">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="113.92" cy="-775" rx="42.85" ry="18" style=""/>
+<text text-anchor="middle" x="113.92" y="-770.8" font-family="Times,serif" font-size="14.00" style="">getLoan</text>
+</g>
+<!-- NFTLendingFacet.getLoan&#45;&gt;LibDiamond.diamondStorage -->
+<g id="edge47" class="edge" data-name="NFTLendingFacet.getLoan-&gt;LibDiamond.diamondStorage">
+
+<path fill="none" stroke="white" stroke-width="2" d="M157.66,-773.33C176.92,-770.3 198.33,-763.34 211.83,-748 285.14,-664.74 171.18,-581.2 247.83,-501 261.89,-486.29 281.35,-478.23 301.3,-474.08" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="301.82,-477.54 311.1,-472.42 300.66,-470.63 301.82,-477.54" style=""/>
+</g>
+<!-- NFTLendingFacet.getPlatformFee -->
+<g id="node10" class="node" pointer-events="visible" data-name="NFTLendingFacet.getPlatformFee">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="113.92" cy="-667" rx="70.64" ry="18" style=""/>
+<text text-anchor="middle" x="113.92" y="-662.8" font-family="Times,serif" font-size="14.00" style="">getPlatformFee</text>
+</g>
+<!-- NFTLendingFacet.getPlatformFee&#45;&gt;LibDiamond.diamondStorage -->
+<g id="edge48" class="edge" data-name="NFTLendingFacet.getPlatformFee-&gt;LibDiamond.diamondStorage">
+
+<path fill="none" stroke="white" stroke-width="2" d="M179.49,-659.11C191.5,-655.03 203.02,-648.97 211.83,-640 256.54,-594.46 201.3,-544.67 247.83,-501 262.3,-487.42 281.43,-479.69 300.9,-475.48" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="301.48,-478.93 310.71,-473.73 300.25,-472.04 301.48,-478.93" style=""/>
+</g>
+<!-- NFTLendingFacet.getDurationLimits -->
+<g id="node11" class="node" pointer-events="visible" data-name="NFTLendingFacet.getDurationLimits">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="113.92" cy="-883" rx="82.26" ry="18" style=""/>
+<text text-anchor="middle" x="113.92" y="-878.8" font-family="Times,serif" font-size="14.00" style="">getDurationLimits</text>
+</g>
+<!-- NFTLendingFacet.getDurationLimits&#45;&gt;LibDiamond.diamondStorage -->
+<g id="edge49" class="edge" data-name="NFTLendingFacet.getDurationLimits-&gt;LibDiamond.diamondStorage">
+
+<path fill="none" stroke="white" stroke-width="2" d="M186.97,-873.64C196.47,-869.56 205.19,-863.88 211.83,-856 262.92,-795.36 194.31,-559.51 247.83,-501 261.77,-485.76 281.48,-477.58 301.74,-473.47" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="302.08,-476.96 311.39,-471.9 300.95,-470.05 302.08,-476.96" style=""/>
+</g>
+<!-- key -->
+<g id="node37" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="178.92,-1618 48.92,-1618 48.92,-1530 178.92,-1530 178.92,-1618" style=""/>
+<text text-anchor="start" x="98.55" y="-1599.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="94.66" y="-1579.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="72.12" y="-1559.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="58.52" y="-1539.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node38" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="416.19,-1618 362.19,-1618 362.19,-1530 416.19,-1530 416.19,-1618" style=""/>
+<text text-anchor="start" x="379.19" y="-1599.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="379.19" y="-1579.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="377.19,-1554 377.19,-1574 402.19,-1574 402.19,-1554 377.19,-1554" style=""/>
+<text text-anchor="start" x="379.19" y="-1559.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="379.19,-1536 379.19,-1552 400.19,-1552 400.19,-1536 379.19,-1536" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge50" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M171.92,-1604C258.27,-1604 283.02,-1604 363.36,-1604" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="363.16,-1607.5 373.16,-1604 363.16,-1600.5 363.16,-1607.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge51" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M171.92,-1584C258.27,-1584 283.02,-1584 363.36,-1584" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="363.16,-1587.5 373.16,-1584 363.16,-1580.5 363.16,-1587.5" style=""/>
+</g>
+</g>
+</svg>
